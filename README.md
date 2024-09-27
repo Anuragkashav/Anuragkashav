@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning pyhton 
 - 💞️ I’m looking to collaborate on a major project 
 - 📫 How to reach me Anuragkashav097@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 
 
 <!---
 Anuragkashav/Anuragkashav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
